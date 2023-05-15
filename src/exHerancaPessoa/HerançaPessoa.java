@@ -8,6 +8,6 @@ public class HerançaPessoa {
         p.nome = "Joao";
         Servidor s = new Servidor();
         Docente d = new Docente();
-        d.
+
     }
 }
